@@ -1,3 +1,25 @@
-.navbar{
-    background: white;
+h1{
+    font-size: 41px;
+}
+h2{
+    font-size: 34px;
+}
+h2,
+h3{
+    font-weight: 500;
+}
+.navbar-brand img {
+    height: 65px;
+}
+.banner-section {
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 8%;
+}
+.carousel-item {
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 5%;
 }
