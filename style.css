@@ -8,10 +8,7 @@ h2,
 h3{
     font-weight: 500;
 }
-a:hover{
-    text-decoration: none;
-    color: #FFD019;
-}
+
 .navbar-brand img {
     height: 65px;
 }
