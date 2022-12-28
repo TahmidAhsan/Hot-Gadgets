@@ -91,7 +91,8 @@ span.color-bar {
     font-weight: 700;
 }
 
-.single-cat {
+.single-cat,
+.shoes{
     text-align: center;
     border-radius: 20px 0 20px 0px;
 }
